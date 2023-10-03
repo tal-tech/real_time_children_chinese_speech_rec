@@ -1,0 +1,9 @@
+模型V5
+
+测试集性能：
+培优测试集(不加热词) wer为14.14%
+权重：wer_11_0.0
+
+性能测试报告：
+https://wiki.zhiyinlou.com/pages/viewpage.action?pageId=44366289
+Real time rate:0.097040 GPU3.6

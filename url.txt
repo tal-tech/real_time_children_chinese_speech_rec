@@ -1,0 +1,1 @@
+real_time_children_chinese_speech_rec/res/PEIY-Eng-0-STU/HCLG.fst http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Freal_time_children_chinese_speech_rec%2Fres%2FPEIY-Eng-0-STU%2FHCLG.fst?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697556961&Signature=v9xFFSWPbGSBsv7QJA7txhPV%2BOo%3D
